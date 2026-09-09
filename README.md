@@ -40,3 +40,7 @@ The recognized subtitle text is written back to an SRT subtitle file.
 
 The current prototype assumes that subtitle timing and region information
 are available as input.
+
+## Demo
+
+![OCR Demo](demo.png)
